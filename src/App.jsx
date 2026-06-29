@@ -178,7 +178,7 @@ const PASTORAIS = [
       "Servem junto ao altar durante as celebrações, ajudando o sacerdote e aprendendo desde cedo a amar a missa.",
     participar:
       "Crianças, adolescentes e adultos que desejam servir ao altar com reverência e alegria.",
-    representantes: ["Aline", "Bruno"],
+    representantes: ["Aline", "Bruno", "Miguel"],
     whatsapp: "5511966478060",
   },
   {
@@ -226,7 +226,7 @@ const PASTORAIS = [
       "Cuida da comunicação da comunidade: divulga as celebrações e os eventos, registra os momentos em fotos e vídeos, mantém as redes sociais e ajuda a levar a Palavra para mais perto das pessoas.",
     participar:
       "Pessoas criativas que gostam de comunicação, redes sociais, fotografia ou design e querem usar esses dons a serviço da comunidade.",
-    representantes: ["Bruno", "Layani", "Indira"],
+    representantes: ["Layani"],
     whatsapp: "5511966478060",
   },
   {
